@@ -16,7 +16,8 @@
 - Το να κατεβασετε ενα IDE ειναι πολυ απλο και υπαρχουν πολλες επιλογες πλεον. Ενα απλο IDE ειναι το [Sublime Text](https://www.sublimetext.com/) αλλα το πιο δημοφιλες ειναι το 
 [Visual Studio](https://code.visualstudio.com/) και το [Pycharm(για την Python)](https://www.jetbrains.com/pycharm/download/#section=windows)
 - Για να κατεβασετε την Python στον υπολογιστη σας πατηστε [εδω](https://www.python.org/)
-- 
+
+
 <br />
 <br />
 
